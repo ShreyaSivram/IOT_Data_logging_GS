@@ -1,4 +1,4 @@
-<img width="1262" alt="image" src="https://github.com/user-attachments/assets/4f94b355-74de-4312-9288-1002dc7354af" /># IOT_Data_logging_GS
+
 This project leverages the ESP32 microcontroller and Google Sheets for real-time data logging of environmental parameters. Utilizing a BME280 sensor, the system continuously measures temperature, humidity, and pressure. These readings are transmitted to a Google Sheets spreadsheet, enabling remote monitoring and data analysis. The project employs Wi-Fi connectivity for internet access and utilizes the ESP-Google-Sheet-Client library for seamless integration with Google Sheets. The system includes features for automatic time synchronization via NTP and secure authentication using Google Service Account credentials. This setup provides a robust and efficient solution for IoT-based environmental data logging and cloud storage.
 
 1. Go to Google Cloud Console.
